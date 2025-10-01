@@ -126,7 +126,7 @@ la de{
       "rappor": "3 - 0",
       "date": "20-08",
       "time": "23 : 59",
-      "team1": { "flag": "image/br.png", "name": "Brazil" },
+      "team1": { "flag": "image/mx.png", "name": "Brazil" },
       "nameteam1": "Australia",
       "team2": { "flag": "image/in.png", "name": "India" },
       "nameteam2": "Australia",
@@ -147,3 +147,4 @@ la de{
     }
   ]
 }
+
