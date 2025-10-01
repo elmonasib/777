@@ -1,9 +1,9 @@
-
+{
   "matches": [
     {
-      "league": "World Cup U250",
+      "league": "World Cup U20",
       "rappor": "3 - 0",
-      "date": "06-10",
+      "date": "02-10",
       "time": "00 : 00",
       "team1": { "flag": "image/br.png", "name": "Brazil" },
       "nameteam1": "Brazel",
@@ -14,7 +14,7 @@
 
     },
     {
-      "league": "World Cup U201",
+      "league": "World Cup U20",
       "rappor": "3 - 0",
       "date": "02-10",
       "time": "00 : 00",
@@ -126,7 +126,7 @@
       "rappor": "3 - 0",
       "date": "20-08",
       "time": "23 : 59",
-      "team1": { "flag": "image/mx.png", "name": "Brazil" },
+      "team1": { "flag": "image/br.png", "name": "Brazil" },
       "nameteam1": "Australia",
       "team2": { "flag": "image/in.png", "name": "India" },
       "nameteam2": "Australia",
@@ -138,14 +138,12 @@
       "rappor": "3 - 0",
       "date": "20-08",
       "time": "23 : 59",
-      "team1": { "flag": "image/mx.png", "name": "Brazil" },
+      "team1": { "flag": "image/br.png", "name": "Brazil" },
       "nameteam1": "Australia",
-      "team2": { "flag": "image/no.png", "name": "India" },
+      "team2": { "flag": "image/in.png", "name": "India" },
       "nameteam2": "Australia",
       "pronostic": "Team 2 Win",
       "cote": "cote 1.80"
     }
   ]
-
-
-
+}
